@@ -18,6 +18,8 @@ const styles = StyleSheet.create({
  width: '100%',
  backgroundColor: '#fff',
  borderRadius: 12,
+ borderColor: 'blue',
+ borderWidth: 1,
  overflow: 'hidden',
  marginBottom: 16,
  elevation: 3,
